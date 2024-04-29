@@ -1,0 +1,66 @@
+/* <body style="direction: rtl;">*/
+
+html{
+    color: rgb(13, 0, 0);
+    font-family:"Calibri";
+    font-size : 16pt;
+    display: inline-block;
+    flex-direction: column;
+    min-height: fit-content;
+    background-color: rgb(133, 218, 228);
+    }
+    
+    title{
+        color: rgb(0, 0, 0);
+        font-family:"Calibri";
+        text-emphasis-color: black;
+        font-size: 5%;
+        text-align: center;
+        direction: rtl;
+    }
+    
+    footer{
+        text-align: right;
+        background-color:rgb(222, 222, 222);
+        border: 8px solid rgb(12, 0, 17);
+        padding: 4px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .text{
+        text-align: right;
+        font-size: 100%;
+        
+    }
+    .Hello{
+        text-align: left;
+        font-size: 100%;
+    }
+    .button{
+        margin: auto;
+        border: 2px solid rgb(158, 196, 232);
+    
+    }
+    #Pic{
+        margin-left: 10px;
+        object-position: 199%;
+        align-content: space-around;
+        border: 3px solid  rgb(6, 23, 44);
+    }
+    
+    .MenuBar{
+        font-family:"Calibri";
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: right;
+        font-size: 150%;
+        color: black;
+        margin-left: 0%;
+        background-color: rgb(154, 192, 236);
+        border: 7px solid rgb(255, 255, 255);
+        border-style: solid;
+        padding: 10px 10px 20px 110px;
+        margin: 0;
+        padding: 0;
+    }
+    .li{
+        display: inline;
+    }
